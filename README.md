@@ -9,9 +9,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
-GIT HUB Practice
-_TBD-course-description_
+# GITHUB PRACTICE for Teachers
+This repository is made for teacher to learn and practice using  GitHub for coding lessons.
 
 </header>
 
